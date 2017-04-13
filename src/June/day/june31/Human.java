@@ -30,7 +30,8 @@ public class Human {
     // public 共有的 void 没有具体返回值（类型）
     //形式参数 formal parameter 没有具体值 暂时
     //实际参数 actual parameter
-    public void study(int studyTime/*参数列表*/){//study 学习 成员方法
+    public void study(int studyTime/*参数列表
+    */){//study 学习 成员方法
 
     //方法体
        System.out.println();

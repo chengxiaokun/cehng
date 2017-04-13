@@ -15,5 +15,6 @@ package June.day.june23;
 
 public class commodity {
     public static void main(String[] args) {
+        System.out.println(123);
     }
 }
